@@ -1,0 +1,60 @@
+a:link{
+    color: red;
+}
+a:visited{
+    color: green;
+}
+
+h1 {
+    color: orange;
+    padding-left: 500px;
+}
+
+ul {
+	padding-top: 60px;
+	padding-right: 50px;
+}
+
+ol {
+	padding-top: 60px;
+	padding-right: 200px;
+}
+
+p {
+	padding-top: 80px;
+}
+
+.FollowUs{
+	margin-top: 20px;
+}
+
+.Chameleon1:hover{
+    transform: scale(1.2);
+}
+
+.Chameleon1{
+    color: #457492;
+    font-family: sans-serif;
+    font-weight: 400;
+    flex-wrap: wrap;
+    display: flex;
+    background-color: white;
+    justify-content: space-evenly;
+    margin-left: 50px;
+    padding-top: 50px;
+}
+
+.Pigeon1:hover{
+    transform: scale(1.2);
+}
+
+.Pigeon1{
+    color: #457452;
+    font-family: sans-serif;
+    font-weight: 400;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	background-color: white;
+    display: flex;
+    margin-left: 70px;
+}
