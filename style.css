@@ -29,10 +29,11 @@ p {
 }
 
 .Chameleon1:hover{
-    transform: scale(1.2);
+    transform: scale(1.2); 	
 }
 
 .Chameleon1{
+    position: relative;
     color: #457492;
     font-family: sans-serif;
     font-weight: 400;
@@ -44,11 +45,16 @@ p {
     padding-top: 50px;
 }
 
+.text{
+    position: absolute;
+}
+
 .Pigeon1:hover{
     transform: scale(1.2);
 }
 
 .Pigeon1{
+    position: relative;
     color: #457452;
     font-family: sans-serif;
     font-weight: 400;
